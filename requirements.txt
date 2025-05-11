@@ -6,6 +6,7 @@ langchain-core
 langchain-ollama
 langchain-community
 langchain_text_splitters
+langgraph
 unstructured
 unstructured[all-docs]
 fastembed
